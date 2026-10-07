@@ -54,17 +54,11 @@ The dataset contains 10,000 patient records with information related to patient 
 
 ## Project Structure
 
-```text
 US-Healthcare-Data-Analysis/
 │
-├── Excel/
-│   └── US_Healthcare_Data_Analysis.xlsx
+├── README.md
 │
-├── Documentation/
-│   └── US_Healthcare_Project_Summary.pdf
-│
-└── README.md
-```
+└── US_Healthcare_Data_Analysis_GitHub.xlsx
 
 ## Dashboard
 
